@@ -1,16 +1,8 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lua-requests"
 version = "1.0-0"
--- LuaDist source
 source = {
-  tag = "1.0-0",
-  url = "git://github.com/LuaDist-testing/lua-requests.git"
+  url = "git://github.com/JakobGreen/lua-requests.git"
 }
--- Original source
--- source = {
---   url = "git://github.com/JakobGreen/lua-requests.git"
--- }
 description = {
   summary = "HTTP requests made easy! Support for Basic Auth, Digest Auth. HTTP response parsing has never been easier!",
   detailed = [[Similar to Requests for python.
